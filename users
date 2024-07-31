@@ -1,1 +1,8 @@
-2482894988
+return {
+    [2482894988] = true,
+    [3131603504] = true,
+    [7041084174] = true,
+    [7116716649] = true,
+    [533613333] = true,
+    -- Add more user IDs as needed
+}
