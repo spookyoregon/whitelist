@@ -4,4 +4,5 @@ return {
     [7041084174] = true,
     [7116716649] = true,
     [533613333] = true,
+    -- Add more user IDs as needed
 }
