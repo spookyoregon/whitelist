@@ -5,4 +5,3 @@ return {
     [7116716649] = true,
     [533613333] = true,
 }
-print("Work")
